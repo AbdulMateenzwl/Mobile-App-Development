@@ -1,6 +1,6 @@
 # chapter_4
 
-Chapter 4 step by step
+A new Flutter project.
 
 ## Getting Started
 

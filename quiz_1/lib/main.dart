@@ -35,7 +35,7 @@ class OrientationDemo extends StatelessWidget {
                         GridViewWidget(),
                         SizedBox(height: 20.0),
                         OrientationBuilderWidget(),
-                      ],
+                      ],data entry is a togh job  in tsiwr.t
                     )))));
   }
 }
